@@ -1,8 +1,6 @@
 ## 👋 Hello, I'm Yemisrach Tigiste
 
-📡 **Telecom Operations & Performance Specialist** with over **10 years of experience** at **Ethio Telecom**, where I’ve been driving **network quality**, **customer satisfaction**, and **digital service delivery**.
-
-I'm passionate about leveraging **data for digital business intelligence and informed decision-making**, and I'm actively engaged in **Ethiopia's digital transformation** through continuous learning and certified training.
+Experienced telecom performance specialist with growing expertise in data analytics and digital transformation. Skilled in network KPIs, customer impact analysis, and digital service optimization. Currently building projects in Python, SQL, and Excel to apply data skills in telecom and business contexts.
 
 ---
 

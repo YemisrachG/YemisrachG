@@ -18,16 +18,29 @@ Experienced telecom performance specialist with growing expertise in data analyt
 
 - 📈 Advanced Data Analysis with Python  
 - 📊 Business Intelligence (Power BI, Tableau basics)  
-- ☁️ Cloud Platforms for Telecom & Analytics (AWS fundamentals)
+  
 
 ---
+---
+**📡 Telecom & Network Tools:**  
+- OSS Tools (Huawei NetAct, Ericsson platforms)  
+- CRM Systems (Siebel, Salesforce), Wireshark
+- Network Monitoring Tools (e.g., Huawei U2000, NetAct, ZTE NetNumen)
+
+---
+**📈 Digital Services & DFS:**  
+- Telebirr, Mobile Money Platforms  
+- Google Analytics, Meta Business Suite   
+
+---
+
 
 ### 📚 Certifications & Courses
 
 - ✅ Digital Financial Services  
 - ✅ Digital Transformation Strategy  
 - ✅ E-Marketing  
-- ✅ Telecom Certifications across multiple technology domains (e.g., mobile, fixed, digital services)
+- ✅ Telecom Certifications across multiple technology domains (e.g., Mobile(2G/3G/4G/5G), fixed, digital services)
 
 ---
 

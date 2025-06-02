@@ -1,9 +1,4 @@
-
-
-**YemisrachG/YemisrachG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-## 👋 Hello, I'm [Yemisrach Tigiste]
+## 👋 Hello, I'm Yemisrach Tigiste
 
 📡 **Telecom Operations & Performance Specialist** with over **10 years of experience** at **Ethio Telecom**, where I’ve been driving **network quality**, **customer satisfaction**, and **digital service delivery**.
 
@@ -23,24 +18,27 @@ I'm passionate about leveraging **data for digital business intelligence and inf
 
 ### 📈 Currently Learning
 
-- Advanced Data Analysis with Python  
-- Business Intelligence (Power BI, Tableau basics)  
-- Cloud Platforms for Telecom & Analytics (AWS fundamentals)
+- 📈 Advanced Data Analysis with Python  
+- 📊 Business Intelligence (Power BI, Tableau basics)  
+- ☁️ Cloud Platforms for Telecom & Analytics (AWS fundamentals)
 
 ---
 
 ### 📚 Certifications & Courses
 
-- ✔️ **Digital Financial Services**
-- ✔️ **Digital Transformation Strategy**
-- ✔️ **E-Marketing**
-  ✔️ **telecom certifications in different technology domain
+- ✅ Digital Financial Services  
+- ✅ Digital Transformation Strategy  
+- ✅ E-Marketing  
+- ✅ Telecom Certifications across multiple technology domains (e.g., mobile, fixed, digital services)
+
 ---
 
 ### 🤝 Let's Connect
 
-[![LinkedIn] www.linkedin.com/in/yemisrach-tigiste
-[![GitHub] https://github.com/YemisrachG
+[![LinkedIn](https://www.linkedin.com/in/yemisrach-tigiste)  
+[![GitHub](https://github.com/YemisrachG)
+
 ---
 
 🔍 *Looking to collaborate on data-driven projects, telecom analytics, or digital transformation initiatives.*
+

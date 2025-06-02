@@ -40,5 +40,5 @@ I'm passionate about leveraging **data for digital business intelligence and inf
 
 ---
 
-🔍 *Looking to collaborate on data-driven projects, telecom analytics, or digital transformation initiatives.*
+🔍 *Looking forward to collaborate on data-driven projects, telecom analytics, or digital transformation initiatives.*
 

@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Yemisrach Tigiste
 
-Experienced telecom performance specialist with growing expertise in data analytics and digital transformation. Skilled in network KPIs, customer impact analysis, and digital service optimization. Currently building projects in Python, SQL, and Excel to apply data skills in telecom and business contexts.
+📡 **As a telecom performance specialist with deep experience in service, network analytics and customer operations, I bring strong analytical thinking, a service-driven mindset, and a growing proficiency in digital tools. I’ve led incident response, monitored QoS KPIs, and advised on network upgrades with an eye on customer impact. Trained in Digital Transformation and Digital Financial Services, I’m now focused on expanding my career toward data analysis and Data Scientist
 
 ---
 
@@ -18,38 +18,30 @@ Experienced telecom performance specialist with growing expertise in data analyt
 
 - 📈 Advanced Data Analysis with Python  
 - 📊 Business Intelligence (Power BI, Tableau basics)  
-  
+- 
 
 ---
----
-**📡 Telecom & Network Tools:**  
-- OSS Tools (Huawei NetAct, Ericsson platforms)  
-- CRM Systems (Siebel, Salesforce), Wireshark
-- Network Monitoring Tools (e.g., Huawei U2000, NetAct, ZTE NetNumen)
-
----
-**📈 Digital Services & DFS:**  
-- Telebirr, Mobile Money Platforms  
-- Google Analytics, Meta Business Suite   
-
----
-
 
 ### 📚 Certifications & Courses
 
 - ✅ Digital Financial Services  
 - ✅ Digital Transformation Strategy  
 - ✅ E-Marketing  
-- ✅ Telecom Certifications across multiple technology domains (e.g., Mobile(2G/3G/4G/5G), fixed, digital services)
+- ✅ Telecom Certifications across multiple technology domains (e.g., mobile, fixed, digital services)
 
 ---
+---
+
+Highlights of projects [![GitHub] https://github.com/YemisrachG/solar-challenge-week1.git
+                                  [![GitHub] https://github.com/YemisrachG/Stock-Market-Data-Analysis-for-portfolio-optimization-.git
+---
+
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/yemisrach-tigiste)  
-[![GitHub](https://github.com/YemisrachG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yemisrach-tigiste)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/YemisrachG)
 
 ---
 
-🔍 *Looking forward to collaborate on data-driven projects, telecom analytics, or digital transformation initiatives.*
-
+🔍 *Looking to collaborate on data-driven projects, telecom analytics, or digital transformation initiatives.*
